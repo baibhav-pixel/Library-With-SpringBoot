@@ -1,6 +1,7 @@
 # Java-Backend
-My self projects on Java Backend Development
+Self projects on Java Backend Development
 
+#Library
 The Library project is about Library Management System where a User can issue a Book or Return. 
 If the user issues the book, the Admin takes the request to process. 
 Once the Admin approves, the Book is assigned to the student.
