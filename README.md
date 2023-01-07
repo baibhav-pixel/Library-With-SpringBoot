@@ -8,3 +8,7 @@ Once the Admin approves, the Book is assigned to the student.
 Upon returning the Book the system checks for fine if any.
 
 Skills: MySQL, Java 8, SpringBoot, Hibernate, JPA, Maven, OOP
+
+If you get an error like 'Error creating bean with name 'entityManagerFactory'" then check:
+1. Application.properties file
+2. Check whether MySQL is running via cmd prompt
